@@ -1,5 +1,5 @@
 # HTML-About-Myself
-https://iremuludirik.github.io/HTML-About-Myself/
+https://iremuludirik.github.io/About-Myself-Site/
 
 - About Myself
 - My hobbies and interests
